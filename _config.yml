@@ -1,6 +1,6 @@
 name: CKP
 favicon: null
-layout_spectrum: 0.6244340401608497
+layout_spectrum: 0.93856
 typography_spectrum: 0.41545654181391
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#272d5d'
+    - '#7671ab'
+    - '#c59ba9'
+    - '#050505'
+    - '#d36540'
   brandStrength: 0.7542198938317597
   lightness: 0.5463043069466949
   saturation: 0.9093469902873039
