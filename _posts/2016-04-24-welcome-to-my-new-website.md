@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T19:11:33.673Z'
-dateModified: '2016-04-24T19:11:28.853Z'
+datePublished: '2016-04-24T19:14:31.445Z'
+dateModified: '2016-04-24T19:13:41.835Z'
 title: 'Welcome to my new website!'
 author: []
+sourcePath: _posts/2016-04-24-welcome-to-my-new-website.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-welcome-to-my-new-website.md
-published: true
 url: welcome-to-my-new-website/index.html
 _type: Article
 
 ---
 # Welcome to my new website!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7fabca-bb36-4f33-9a53-642073f80487.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22210116-d1da-455b-90cd-69029f43315a.jpg)
 
 ## Who is this guy?
